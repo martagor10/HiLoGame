@@ -5,7 +5,7 @@
 Run solution & run the project or build the project & find the .exe file.
 You will see a menu like this:
 
-<img width="285" alt="image" src="https://github.com/user-attachments/assets/e5789923-eec8-46b2-af65-5bc4a5dbfda7" />
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/df50b0bd-69ab-4f44-a8c7-53e3f8516b8f" />
 
 Enjoy the game! :)
 
