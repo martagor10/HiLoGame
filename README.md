@@ -11,4 +11,4 @@ Enjoy the game! :)
 
 Class diagram presents like this:
 
-![DependenciesDiagramForHiLoGame](https://github.com/user-attachments/assets/2956be58-e1ab-452a-9dd8-37b2b636c05a)
+![DependenciesDiagramForHiLoGame](DependenciesDiagramForHiLoGame.jpg)
