@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame.App", "HiLoGame.App\HiLoGame.App.csproj", "{AB1AC718-F04B-47F7-81C0-02360F21B2A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame.Tests", "HiLoGame.Tests\HiLoGame.Tests.csproj", "{FFDB21C3-E9B3-436F-8ABD-E0149EE67B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1AC718-F04B-47F7-81C0-02360F21B2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1AC718-F04B-47F7-81C0-02360F21B2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1AC718-F04B-47F7-81C0-02360F21B2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1AC718-F04B-47F7-81C0-02360F21B2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDB21C3-E9B3-436F-8ABD-E0149EE67B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDB21C3-E9B3-436F-8ABD-E0149EE67B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDB21C3-E9B3-436F-8ABD-E0149EE67B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDB21C3-E9B3-436F-8ABD-E0149EE67B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
